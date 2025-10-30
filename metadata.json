@@ -1,0 +1,5 @@
+{
+  "name": "Explore OH² (One Health Hub)",
+  "description": "OH² (One Health Hub) is a modern web application integrating human, animal, and environmental health through AI-powered chatbot consultations and disease outbreak predictions using the Gemini API.",
+  "requestFramePermissions": []
+}
